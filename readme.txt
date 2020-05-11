@@ -64,3 +64,19 @@ Ejercicio 11
 Escribir un programa que almacene los vectores (1,2,3) y (-1,0,2) en dos listas y muestre por pantalla su producto escalar.
 
 ---------------------------------------------------------------------------------------------------
+Ejercicio 12
+
+Escribir un programa que almacene las matrices
+
+a = (1,2,3)
+    (4,5,6)
+
+b = (-1,0)
+    (0,1)
+    (1,1)
+
+en una lista y muestre por pantalla su producto.
+Nota: Para representar matrices mediante listas usar listas anidadas, 
+representando cada vector fila en una tupla
+
+---------------------------------------------------------------------------------------------------
